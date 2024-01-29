@@ -6,7 +6,8 @@ The requirements section describes whether this project requires anything outsid
 
 ### IDE and Environment setup:
 ```
-Here we define the step-by-step proocess of installing any IDE and how do we setup our environment for this project.
+Here we define the step-by-step proocess of installing any IDE 
+and how do we setup our environment for this project.
 ```
 ### Libraries:
 * 1st library
