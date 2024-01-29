@@ -3,25 +3,27 @@ This section provides a simple introduction of the project for others and summar
 
 ## Requirements
 The requirements section describes whether this project requires anything outside in order to work (modules, libraries, etc). List all requirements here, including those that follow indirectly from another module, etc. 
-### Lists of Libaraiies, IDEs and other modeules:
-* First library
-* First module
-* First IDE
 
-### Installtion of First Libaray:
+### IDE and Environment setup:
 ```
-The required steps to install the library
+Here we define the step-by-step proocess of installing any IDE and how do we setup our environment for this project.
 ```
-### Installtion of First module:
-```
-The required steps to install the module
-```
+### Libraries:
+* 1st library
+* 2nd library
 
-## Important Docs
-This section includes all the necessary documents related to the project liek Flowcharts, schematics etc. 
+### Change Libaraies (only required when changed)
+* 1st changed library
+* 2nd changed library
 
+## Documents:
+This section includes all the necessary documents related to this project like Flowcharts, schematics etc.
+* 1st Document
+* 2nd Document
 
-## Links of other Libs, Documents and repository: 
+we can also add our website links for other documents (if required)
+
+## Links of other Library, Documents and repository: 
 This section provides links of other Libraries or documents you used to build this project.
 1. Link to 1st docuement.
 2. Link to 2nd docuement.
